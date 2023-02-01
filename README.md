@@ -1,5 +1,5 @@
 # Resume
 my personal resume
 
-## [HTML Version](/)
-## [PDF Version](/huoyijie.pdf)
+* [HTML Version](https://huoyijie.github.io/resume)
+* [PDF Version](https://huoyijie.github.io/resume/huoyijie.pdf)
